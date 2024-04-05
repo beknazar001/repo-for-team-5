@@ -6,5 +6,9 @@ bye my fyi
 hi
 #>>>>>>> 6b7142d25b0b70ae2e587f163d65670ff1760f65
 
+#<<<<<<< HEAD
 
 brother
+=======
+mama
+#>>>>>>> d073e33d8e8a454033f863af103a459abff401a8
