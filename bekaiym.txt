@@ -1,3 +1,7 @@
 this is by Bekaiym for pushing
 pls accept my pull request
+#<<<<<<< HEAD
 bye my fyi
+=======
+hi
+#>>>>>>> 6b7142d25b0b70ae2e587f163d65670ff1760f65
